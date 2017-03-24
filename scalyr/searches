@@ -1,8 +1,8 @@
 {
   searches: [
     {
-      title: "Search for [foo]",
-      url: "/events?filter=foo"
+      title: "Search for [bar]",
+      url: "/events?filter=bar"
     }
   ]
 }
